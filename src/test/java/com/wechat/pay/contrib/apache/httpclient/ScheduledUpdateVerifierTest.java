@@ -30,7 +30,6 @@ import org.junit.Test;
 
 public class ScheduledUpdateVerifierTest {
     // for test
-    // for test2
     // 你的商户私钥
     private static final String privateKey = "-----BEGIN PRIVATE KEY-----\n"
             + "-----END PRIVATE KEY-----\n";
