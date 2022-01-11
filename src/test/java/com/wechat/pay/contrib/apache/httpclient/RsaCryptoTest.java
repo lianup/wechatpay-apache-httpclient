@@ -68,7 +68,7 @@ public class RsaCryptoTest {
                 .encryptOAEP(text, verifier.getValidCertificate());
         System.out.println("ciphertext: " + ciphertext);
     }
-
+// for test
     @Test
     public void postEncryptDataTest() throws Exception {
         HttpPost httpPost = new HttpPost("https://api.mch.weixin.qq.com/v3/smartguide/guides");
