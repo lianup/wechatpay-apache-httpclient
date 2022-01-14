@@ -31,10 +31,16 @@ import org.junit.Test;
 
 @Deprecated
 public class AutoUpdateVerifierTest {
-
-    // 你的商户私钥
-    private static final String privateKey = "-----BEGIN PRIVATE KEY-----\n"
-            + "-----END PRIVATE KEY-----\n";
+// for test
+// test2
+// test3
+// test4
+// test5
+// test6
+// tesrt7
+// 你的商户私钥
+private static final String privateKey = "-----BEGIN PRIVATE KEY-----\n"
+        + "-----END PRIVATE KEY-----\n";
     //测试AutoUpdateCertificatesVerifier的verify方法参数
     private static final String serialNumber = "";
     private static final String message = "";
