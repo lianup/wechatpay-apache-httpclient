@@ -33,6 +33,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 在原有CertificatesVerifier基础上，增加自动更新证书功能
  * 该类已废弃，请使用ScheduledUpdateCertificatesVerifier
+ * test1
  *
  * @author xy-peng
  */
